@@ -1,6 +1,6 @@
 import os
 # 定义要检测和插入的字符串
-target = '<script src="鼠标吸附.js"></script>\n'
+target = '<script src="assets\js\鼠标吸附.js"></script>\n'
 target_2 = '<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>\n'
 target_3 = '<script>function btn_click(){confetti();}</script>\n'
 # 定义要遍历的文件夹路径
